@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**d6u/d6u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make apps and websites. Some ✨ stuff ✨ I made:
 
-Here are some ideas to get you started:
+### 💬 [promptplay.xyz](https://promptplay.xyz) ([Repo](https://github.com/d6u/VideoChatRoom))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_An experiment on visual prompt chaining._
+
+Tech:
+- Frontend: TypeScript, React, RxJS, Recoil, GraphQL
+- Backend: Python, FastAPI, SQLAlchemy, GraphQL
+- Deploy: AWS CloudFormation, CloudFront, S3, AWS ECS, Docker, Postgres
+
+### 📞 [VideoChatRoom](https://gameroom-beta.daiwei.lu) ([Repo](https://github.com/d6u/VideoChatRoom))
+
+_WebRTC video chat with friends using links. No registration required. (Won't work with NAT.)_
+
+Tech:
+- Frontend: TypeScript, React, RxJS, WebSocket, WebRTC
+- Backend: TypeScript, Node.js
+- Deploy: AWS CloudFormation, AWS API Gateway, AWS Lambda, CloudFront, S3, DynamoDB, AWS SQS
