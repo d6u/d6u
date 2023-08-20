@@ -2,7 +2,7 @@
 
 I make apps and websites. Some ✨ stuff ✨ I made:
 
-### 💬 [promptplay.xyz](https://promptplay.xyz) ([Repo](https://github.com/d6u/VideoChatRoom))
+### 💬 [promptplay.xyz](https://promptplay.xyz) ([Repo](https://github.com/d6u/PromptPlay))
 
 _An experiment on visual prompt chaining._
 
