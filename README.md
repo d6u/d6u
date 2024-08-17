@@ -2,7 +2,7 @@
 
 **I make apps and libraries. Some ✨ stuff ✨ I made:**
 
-### 💬 [RelierStudio](https://relier.ai) ([repo]([https://github.com/d6u/PromptPlay](https://github.com/d6u/RelierStudio)))
+### 💬 [RelierStudio](https://relier.ai) ([repo](https://github.com/d6u/RelierStudio))
 
 _An agent workflow engine._
 
