@@ -2,14 +2,13 @@
 
 **I make apps and libraries. Some ✨ stuff ✨ I made:**
 
-### 💬 [promptplay.xyz](https://promptplay.xyz) ([repo](https://github.com/d6u/PromptPlay))
+### 💬 [RelierStudio](https://relier.ai) ([repo]([https://github.com/d6u/PromptPlay](https://github.com/d6u/RelierStudio)))
 
-_An experiment on visual prompt chaining._
+_An agent workflow engine._
 
 Tech:
-- Frontend: TypeScript, React, RxJS, Recoil, GraphQL, styled-components
-- Backend: Python, FastAPI, SQLAlchemy, GraphQL, Auth0
-- Deploy: Docker, AWS CloudFormation, AWS CloudFront, AWS S3, AWS ECS/ELB/EC2, AWS RDS/Postgres
+- TypeScript, React, RxJS, Jotai, GraphQL, Emotion, Node.js, Electron
+- AWS CloudFormation, AWS CloudFront, AWS S3
 
 ### 🫙 react-container-query ([repo](https://github.com/react-container-query/react-container-query))
 
